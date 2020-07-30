@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/shopLocal/static/css/main.c6401d92.chunk.css",
-    "main.js": "/shopLocal/static/js/main.cbe99684.chunk.js",
-    "main.js.map": "/shopLocal/static/js/main.cbe99684.chunk.js.map",
+    "main.js": "/shopLocal/static/js/main.a7062301.chunk.js",
+    "main.js.map": "/shopLocal/static/js/main.a7062301.chunk.js.map",
     "runtime-main.js": "/shopLocal/static/js/runtime-main.1744a016.js",
     "runtime-main.js.map": "/shopLocal/static/js/runtime-main.1744a016.js.map",
     "static/js/2.0df648b7.chunk.js": "/shopLocal/static/js/2.0df648b7.chunk.js",
     "static/js/2.0df648b7.chunk.js.map": "/shopLocal/static/js/2.0df648b7.chunk.js.map",
     "index.html": "/shopLocal/index.html",
-    "precache-manifest.338075e95a8f0e5d059e2d36eae3d833.js": "/shopLocal/precache-manifest.338075e95a8f0e5d059e2d36eae3d833.js",
+    "precache-manifest.b85bd5989ee7e461925e74a0fd6b1322.js": "/shopLocal/precache-manifest.b85bd5989ee7e461925e74a0fd6b1322.js",
     "service-worker.js": "/shopLocal/service-worker.js",
     "static/css/main.c6401d92.chunk.css.map": "/shopLocal/static/css/main.c6401d92.chunk.css.map",
     "static/js/2.0df648b7.chunk.js.LICENSE.txt": "/shopLocal/static/js/2.0df648b7.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.1744a016.js",
     "static/js/2.0df648b7.chunk.js",
     "static/css/main.c6401d92.chunk.css",
-    "static/js/main.cbe99684.chunk.js"
+    "static/js/main.a7062301.chunk.js"
   ]
 }
