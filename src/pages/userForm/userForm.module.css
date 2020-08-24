@@ -1,0 +1,37 @@
+.userform_container {
+  height: 88vh;
+  width: 100%;
+  margin: auto;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: auto;
+}
+.userform_container form {
+  width: 350px;
+  background-color: #ffffff;
+  margin: 15px;
+  padding: 10px;
+  text-align: center;
+}
+.userform_container form h2 {
+  padding: 0 auto;
+}
+.name_container {
+  display: flex;
+}
+.userfrom_top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.userfrom_top img {
+  height: 60px;
+  width: 60px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.userfrom_top input {
+  display: none;
+}

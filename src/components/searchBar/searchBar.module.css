@@ -1,0 +1,22 @@
+.search_box {
+  display: flex;
+  height: 30px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.08);
+  border: none;
+  outline: none;
+  width: 250px;
+  margin: auto;
+  padding: 2px 10px;
+  background-color: #ffffff;
+  align-items: center;
+}
+.search_box input {
+  border: none;
+  outline: none;
+  width: 230px;
+}
+.search_box img {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,34 @@
+.input_container {
+  height: 80px;
+  flex-direction: column;
+  text-align: left;
+  margin: auto;
+  color: blue;
+}
+.input_container input {
+  height: 30px;
+  width: 100%;
+  margin: 0 auto;
+  border: none;
+  background-color: white;
+  border-bottom: 1px solid black;
+  outline: none;
+  font-size: 1em;
+}
+.input_container input:focus {
+  border-bottom: 2px solid blue;
+}
+.input_label {
+  height: 20px;
+}
+.error_msg {
+  color: red;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+  height: 20px;
+}
+.error_msg p {
+  margin: 0;
+  padding: 0;
+}
